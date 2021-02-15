@@ -1,5 +1,6 @@
 {
   "name": "torrent-aio-bot",
+  "stack": "heroku-20",
   "description": "All in one bot for torrenting",
   "repository": "https://github.com/patheticGeek/torrent-aio-bot",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
